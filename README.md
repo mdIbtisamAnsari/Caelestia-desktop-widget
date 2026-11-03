@@ -28,7 +28,7 @@ Make sure you have the following packages installed on your Linux / Wayland envi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/quickshell-desktop.git
+   git clone https://github.com/mdIbtisamAnsari/quickshell-desktop.git
    cd quickshell-desktop
    ```
 
